@@ -61,7 +61,7 @@ function vInicio(){
  <div class="chips" id="cats"><button class="chip ${!cat?'on':''}" data-c="">Todos</button><button class="chip ${cat==='★'?'on':''}" data-c="★">★ Favoritos</button>${CATS.map(c=>`<button class="chip ${cat===c?'on':''}" data-c="${esc(c)}">${esc(c)}</button>`).join('')}</div></div>
  ${hint}<div id="res"></div>`;
  const qi=$('#q');qi.oninput=()=>{q=qi.value;drawRes()};
- $('#cats').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;cat=b.dataset.c;document.querySelectorAll('#cats .chip').forEach(x=>x.classList.toggle('on',x===b));drawRes()};
+ $('#cats').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;cat=b.dataset.c;if(cat){q='';qi.value=''}document.querySelectorAll('#cats .chip').forEach(x=>x.classList.toggle('on',x===b));drawRes()};
  if($('#hintx'))$('#hintx').onclick=()=>{S.seenHint=true;save();$('#hint').remove()};
  drawRes();
 }
@@ -74,9 +74,9 @@ function drawRes(){const R=$('#res');
 }
 
 /* ===== Ficha de alimento (agregar / editar) ===== */
-function openSheet(html){$('#sheetCard').innerHTML=html;$('#sheet').classList.remove('hidden')}
+function openSheet(html){$('#sheetCard').innerHTML='<div class="grab"></div><button class="icon" id="sheetClose" aria-label="Cerrar" style="position:absolute;right:8px;top:6px;font-size:22px;z-index:2">✕</button>'+html;$('#sheetClose').onclick=closeSheet;$('#sheet').classList.remove('hidden')}
 function closeSheet(){$('#sheet').classList.add('hidden')}
-$('.sheet-bg').onclick=closeSheet;
+$('.sheet-bg').onclick=closeSheet;addEventListener('keydown',e=>{if(e.key==='Escape')closeSheet()});
 function openFood(n,edit){const vs=variants(n);let f=edit?BYKEY[edit.k]:(vs.find(v=>v.st==='cocido'&&/cocid/.test(norm(q)))||vs[0]);let g=edit?edit.g:100,meal=edit?edit.meal:(pendMeal||defMeal()),date=edit?edit.date:cur===TODAY()?TODAY():cur;
  const draw=()=>{const m=calc(f,g||0);const fav=S.favs.includes(f.n);
  openSheet(`<div class="row between"><div><div style="font-size:20px;font-weight:800">${esc(f.n)}</div><div class="small mut">${esc(f.cat)}</div></div><button class="icon" id="fav" style="font-size:26px;color:${fav?'var(--c)':'var(--mut)'}" aria-label="favorito">${fav?'★':'☆'}</button></div>
