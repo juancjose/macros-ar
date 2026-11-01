@@ -1,0 +1,222 @@
+Nalga|nalga de adentro,top round|Carne vacuna|crudo|beef, round, top round & lean only & 0" fat & choice, raw
+Nalga|nalga de adentro,top round|Carne vacuna|cocido|beef, round, top round & lean only & 0" fat & choice, cooked, braised
+Cuadril|rump,colita de cuadril,tapa de cuadril|Carne vacuna|crudo|beef, bottom sirloin, tri-tip roast & lean only & 0" fat & choice, raw
+Cuadril|rump,colita de cuadril|Carne vacuna|cocido|beef, bottom sirloin, tri-tip roast & lean only & 0" fat & choice, cooked
+Peceto|eye of round,peseto|Carne vacuna|crudo|beef, round, eye of round & lean only & 0" fat & choice, raw
+Peceto|eye of round,peseto|Carne vacuna|cocido|beef, round, eye of round & lean only & 0" fat & choice, cooked
+Bola de lomo|bola,tip round|Carne vacuna|crudo|beef, round, tip round & lean only & 0" fat & choice, raw
+Bola de lomo|bola,tip round|Carne vacuna|cocido|beef, round, tip round & lean only & 0" fat & choice, cooked
+Cuadrada|bottom round,cuadrada|Carne vacuna|crudo|beef, round, bottom round & lean only & choice, raw
+Lomo|tenderloin,filet,lomito|Carne vacuna|crudo|beef, tenderloin & lean only & all grades, raw
+Lomo|tenderloin,filet,lomito|Carne vacuna|cocido|beef, tenderloin & lean only & all grades, cooked, broiled
+Bife de chorizo|strip,bife angosto|Carne vacuna|crudo|beef, short loin, top loin & lean only & all grades, raw
+Bife de chorizo|strip,bife angosto|Carne vacuna|cocido|beef, short loin, top loin & lean only & all grades, cooked
+Vacío|flank,vacio|Carne vacuna|crudo|beef, flank, steak & lean only & 0" fat & choice, raw
+Vacío|flank,vacio|Carne vacuna|cocido|beef, flank, steak & lean only & 0" fat & choice, cooked, broiled
+Entraña|skirt,entrana|Carne vacuna|crudo|inside skirt & lean only & choice, raw
+Entraña|skirt,entrana|Carne vacuna|cocido|beef, plate, inside skirt steak & lean only & 0" fat & all grades, cooked
+Carne picada magra (95/5)|picada especial,carne molida|Carne vacuna|crudo|beef, ground, 95% lean meat / 5% fat, raw
+Carne picada magra (95/5)|picada especial,carne molida|Carne vacuna|cocido|beef, ground, 95% lean meat / 5% fat, patty, cooked, pan-broiled
+Carne picada común (85/15)|picada comun|Carne vacuna|crudo|beef, ground, 85% lean meat / 15% fat, raw
+Carne picada común (85/15)|picada comun|Carne vacuna|cocido|beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled
+Hígado vacuno|higado|Carne vacuna|crudo|beef, variety meats and by-products, liver, raw
+Hígado vacuno|higado|Carne vacuna|cocido|beef, variety meats and by-products, liver, cooked, pan-fried
+Pechuga de pollo (sin piel)|pollo,suprema|Pollo|crudo|chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+Pechuga de pollo (sin piel)|pollo,suprema|Pollo|cocido|chicken, broilers or fryers, breast, meat only, cooked, roasted
+Muslo de pollo (sin piel)|pata muslo,pollo|Pollo|crudo|chicken & thigh, meat only, raw
+Muslo de pollo (sin piel)|pata muslo,pollo|Pollo|cocido|chicken, broilers or fryers, thigh, meat only, cooked, roasted
+Pata de pollo (sin piel)|drumstick,pollo|Pollo|crudo|chicken & drumstick, meat only, raw
+Pata de pollo (sin piel)|drumstick,pollo|Pollo|cocido|chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted
+Pavo pechuga|pavo|Pollo|crudo|turkey, retail parts, breast, meat only, raw
+Pavo pechuga|pavo|Pollo|cocido|turkey, retail parts, breast, meat only, cooked, roasted
+Bondiola de cerdo|cerdo,shoulder,boston butt|Cerdo|crudo|pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, raw
+Bondiola de cerdo|cerdo,shoulder|Cerdo|cocido|pork, fresh, shoulder, blade, boston (steaks), separable lean only, cooked, broiled
+Lomo de cerdo|solomillo,tenderloin|Cerdo|crudo|pork, fresh, loin, tenderloin, separable lean only, raw
+Lomo de cerdo|solomillo,tenderloin|Cerdo|cocido|pork, fresh, loin, tenderloin, separable lean only, cooked, roasted
+Carré de cerdo|carre,chuleta|Cerdo|crudo|pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw
+Carré de cerdo|carre,chuleta|Cerdo|cocido|pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, broiled
+Jamón cocido magro|jamon,fiambre|Cerdo|cocido|ham, sliced, regular (approximately 11% fat)
+Jamón cocido extra magro|jamon light|Cerdo|cocido|ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+Cordero pierna|cordero,chivito|Carne vacuna|crudo|lamb & leg & lean only & raw
+Merluza|merluza,hake,pescado blanco|Pescados|crudo|fish, whiting, mixed species, raw
+Merluza|merluza,hake|Pescados|cocido|fish, whiting, mixed species, cooked, dry heat
+Atún al natural (lata)|atun,lata|Pescados|cocido|fish, tuna, light, canned in water, drained solids
+Atún en aceite (lata)|atun|Pescados|cocido|fish, tuna, light, canned in oil, drained solids
+Atún fresco|atun rojo|Pescados|crudo|fish, tuna, fresh, yellowfin, raw
+Salmón rosado|salmon|Pescados|crudo|fish, salmon, atlantic, farmed, raw
+Salmón rosado|salmon|Pescados|cocido|fish, salmon, atlantic, farmed, cooked, dry heat
+Abadejo|bacalao,pollock|Pescados|crudo|fish, pollock, atlantic, raw
+Lenguado|flounder|Pescados|crudo|fish, flatfish (flounder and sole species), raw
+Trucha|trout|Pescados|crudo|fish, trout, rainbow, farmed, raw
+Caballa|mackerel|Pescados|crudo|fish, mackerel, atlantic, raw
+Sardinas en lata (aceite)|sardina|Pescados|cocido|fish, sardine, atlantic, canned in oil, drained solids with bone
+Langostinos|camarones,shrimp|Pescados|crudo|crustaceans, shrimp, raw
+Calamar|rabas,squid|Pescados|crudo|mollusks, squid, mixed species, raw
+Mejillones|cholgas,mussels|Pescados|crudo|mollusks, mussel, blue, raw
+Huevo entero|huevo,huevos|Huevos|crudo|egg, whole, raw, fresh
+Huevo duro|huevo cocido|Huevos|cocido|egg, whole, cooked, hard-boiled
+Huevo revuelto|revuelto|Huevos|cocido|egg, whole, cooked, scrambled
+Clara de huevo|claras|Huevos|crudo|egg, white, raw, fresh
+Yema de huevo|yema|Huevos|crudo|egg, yolk, raw, fresh
+Leche descremada|leche,descremada|Lácteos|—|milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)
+Leche parcialmente descremada (1%)|leche semi|Lácteos|—|milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d
+Leche entera|leche|Lácteos|—|milk, whole, 3.25% milkfat, with added vitamin d
+Yogur natural descremado|yogur,yogurt|Lácteos|—|yogurt, plain, skim milk
+Yogur natural entero|yogur|Lácteos|—|yogurt, plain, whole milk
+Yogur griego descremado|griego|Lácteos|—|yogurt, greek, plain, nonfat
+Yogur griego entero|griego|Lácteos|—|yogurt, greek, plain, whole milk
+Ricota descremada|ricotta,ricota|Lácteos|—|cheese, ricotta, part skim milk
+Ricota entera|ricotta|Lácteos|—|cheese, ricotta, whole milk
+Queso cottage|cottage|Lácteos|—|cheese, cottage, lowfat, 2% milkfat
+Queso crema light|casancrem light,untable|Lácteos|—|cheese, cream, low fat
+Queso crema descremado (untable 0%)|queso blanco,untable|Lácteos|—|cheese, cream, fat free
+Mozzarella semidescremada|muzza light,queso light|Lácteos|—|cheese, mozzarella, low moisture, part-skim
+Mozzarella|muzzarella,muza|Lácteos|—|cheese, mozzarella, whole milk
+Queso de máquina (tybo)|tybo,feta,queso en fetas|Lácteos|—|cheese, gouda
+Queso dambo|dambo,danbo|Lácteos|—|cheese, edam
+Queso parmesano rallado|reggianito,rallado|Lácteos|—|cheese, parmesan, grated
+Queso provolone|provoleta|Lácteos|—|cheese, provolone
+Queso de cabra|cabra|Lácteos|—|cheese, goat, soft type
+Kéfir|kefir|Lácteos|—|kefir, lowfat, plain
+Proteína whey (suero)|whey,proteina en polvo|Suplementos|—|beverages, whey protein powder isolate
+Avena arrollada|avena,copos de avena,oats|Cereales|crudo|cereals, oats, regular and quick, not fortified, dry
+Avena cocida (con agua)|porridge,avena|Cereales|cocido|cereals, oats, regular and quick, unenriched, cooked with water & without salt
+Salvado de avena|salvado|Cereales|crudo|oat bran, raw
+Arroz blanco|arroz,largo fino|Cereales|crudo|rice, white, long-grain, regular, raw, enriched
+Arroz blanco|arroz|Cereales|cocido|rice, white, long-grain, regular, enriched, cooked
+Arroz integral|arroz yamani,integral|Cereales|crudo|rice, brown, long-grain, raw
+Arroz integral|arroz yamani|Cereales|cocido|rice, brown, long-grain, cooked
+Fideos secos (trigo)|pasta,spaghetti,tallarines|Cereales|crudo|pasta, dry, enriched
+Fideos secos (trigo)|pasta,spaghetti|Cereales|cocido|pasta, cooked, enriched, without added salt
+Fideos integrales|pasta integral|Cereales|crudo|pasta, whole-wheat, dry
+Fideos integrales|pasta integral|Cereales|cocido|pasta, whole-wheat, cooked
+Quinoa|quinua|Cereales|crudo|quinoa, uncooked
+Quinoa|quinua|Cereales|cocido|quinoa, cooked
+Polenta (harina de maíz)|polenta,semola de maiz|Cereales|crudo|cornmeal, degermed, enriched, yellow
+Polenta cocida (sémola de maíz)|polenta,grits|Cereales|cocido|cereals, corn grits, white, regular and quick, enriched, cooked with water, without salt
+Pan integral|pan,pan de molde integral|Panificados|—|bread, whole-wheat, commercially prepared
+Pan blanco de molde|lactal,pan lactal|Panificados|—|bread, white, commercially prepared (includes soft bread crumbs)
+Pan francés|pan,flauta,mignon|Panificados|—|bread, french or vienna (includes sourdough)
+Pan de centeno|centeno|Panificados|—|bread, rye
+Tortillas / rapiditas|rapiditas,wraps|Panificados|—|tortillas, ready-to-bake or -fry, flour
+Galletas de arroz|galletitas de arroz|Panificados|—|snacks, rice cakes, brown rice, plain
+Harina de trigo 000|harina|Cereales|crudo|wheat flour, white, all-purpose, enriched, bleached
+Harina integral|harina integral|Cereales|crudo|wheat flour, whole-grain
+Copos de maíz sin azúcar|corn flakes,cereal|Cereales|—|cereals ready-to-eat & corn flakes
+Granola|granola|Cereales|—|cereals ready-to-eat, granola, homemade
+Mijo|mijo|Cereales|crudo|millet, raw
+Trigo burgol|burgol,bulgur|Cereales|crudo|bulgur, dry
+Lentejas|lentejas|Legumbres|crudo|lentils, raw
+Lentejas|lentejas|Legumbres|cocido|lentils, mature seeds, cooked, boiled, without salt
+Garbanzos|garbanzo,chickpeas|Legumbres|crudo|chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+Garbanzos|garbanzo|Legumbres|cocido|chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt
+Porotos negros|porotos,frijoles|Legumbres|crudo|beans, black, mature seeds, raw
+Porotos negros|porotos|Legumbres|cocido|beans, black, mature seeds, cooked, boiled, without salt
+Porotos colorados|porotos rojos|Legumbres|crudo|beans, kidney, red, mature seeds, raw
+Porotos colorados|porotos rojos|Legumbres|cocido|beans, kidney, red, mature seeds, cooked, boiled, without salt
+Porotos alubia|porotos blancos|Legumbres|crudo|beans, white, mature seeds, raw
+Porotos alubia|porotos blancos|Legumbres|cocido|beans, white, mature seeds, cooked, boiled, without salt
+Arvejas partidas|arvejas secas|Legumbres|cocido|peas, split, mature seeds, cooked, boiled, without salt
+Soja (porotos de soja)|soja|Legumbres|crudo|soybeans, mature seeds, raw
+Soja texturizada|soja texturizada,carne de soja|Legumbres|—|soy protein concentrate, produced by alcohol extraction
+Tofu|tofu|Legumbres|—|tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)
+Hummus|humus|Legumbres|—|hummus, commercial
+Banana|banana,platano|Frutas|—|bananas, raw
+Manzana|manzana roja,verde|Frutas|—|apples, raw, with skin
+Naranja|naranja|Frutas|—|oranges, raw, all commercial varieties
+Mandarina|mandarina|Frutas|—|tangerines, (mandarin oranges), raw
+Pera|pera|Frutas|—|pears, raw
+Frutilla|frutillas,fresas|Frutas|—|strawberries, raw
+Arándanos|arandanos,blueberries|Frutas|—|blueberries, raw
+Frambuesa|frambuesas|Frutas|—|raspberries, raw
+Uva|uvas|Frutas|—|grapes, red or green (european type, such as thompson seedless), raw
+Durazno|durazno,melocoton|Frutas|—|peaches, yellow, raw
+Ciruela|ciruelas|Frutas|—|plums, raw
+Kiwi|kiwi|Frutas|—|kiwifruit, green, raw
+Ananá|anana,pina|Frutas|—|pineapple, raw, all varieties
+Mango|mango|Frutas|—|mangos, raw
+Sandía|sandia|Frutas|—|watermelon, raw
+Melón|melon|Frutas|—|melons, cantaloupe, raw
+Pomelo|pomelo|Frutas|—|grapefruit, raw, pink and red, all areas
+Limón|limon|Frutas|—|lemons, raw, without peel
+Palta|palta,aguacate|Frutas|—|avocados, raw, all commercial varieties
+Damasco|damasco|Frutas|—|apricots, raw
+Cereza|cerezas|Frutas|—|cherries, sweet, raw
+Higo|higos|Frutas|—|figs, raw
+Membrillo|membrillo|Frutas|—|quinces, raw
+Pasas de uva|pasas|Frutas|—|raisins, dark, seedless
+Dátiles|datiles|Frutas|—|dates, medjool
+Ciruelas pasas|ciruela pasa|Frutas|—|plums, dried (prunes), uncooked
+Lechuga|lechuga|Verduras|crudo|lettuce, green leaf, raw
+Tomate|tomate|Verduras|crudo|tomatoes, red, ripe, raw, year round average
+Zanahoria|zanahoria|Verduras|crudo|carrots, raw
+Zanahoria|zanahoria|Verduras|cocido|carrots, cooked, boiled, drained, without salt
+Zapallo|zapallo,calabaza|Verduras|crudo|squash, winter, butternut, raw
+Zapallo|zapallo,calabaza|Verduras|cocido|squash, winter, butternut, cooked, baked, without salt
+Zapallito|zapallito redondo,zucchini|Verduras|crudo|squash, summer, zucchini, includes skin, raw
+Zapallito|zucchini|Verduras|cocido|squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt
+Papa|papa,patata|Verduras|crudo|potatoes, flesh and skin, raw
+Papa hervida|papa|Verduras|cocido|potatoes, boiled, cooked without skin, flesh, without salt
+Batata|batata,boniato|Verduras|crudo|sweet potato, raw, unprepared
+Batata|batata|Verduras|cocido|sweet potato, cooked, baked in skin, flesh, without salt
+Brócoli|brocoli|Verduras|crudo|broccoli, raw
+Brócoli|brocoli|Verduras|cocido|broccoli, cooked, boiled, drained, without salt
+Coliflor|coliflor|Verduras|crudo|cauliflower, raw
+Espinaca|espinaca|Verduras|crudo|spinach, raw
+Espinaca|espinaca|Verduras|cocido|spinach, cooked, boiled, drained, without salt
+Acelga|acelga|Verduras|crudo|chard, swiss, raw
+Acelga|acelga|Verduras|cocido|chard, swiss, cooked, boiled, drained, without salt
+Cebolla|cebolla|Verduras|crudo|onions, raw
+Morrón rojo|morron,pimiento|Verduras|crudo|peppers, sweet, red, raw
+Morrón verde|morron|Verduras|crudo|peppers, sweet, green, raw
+Pepino|pepino|Verduras|crudo|cucumber, with peel, raw
+Berenjena|berenjena|Verduras|crudo|eggplant, raw
+Remolacha|remolacha|Verduras|crudo|beets, raw
+Remolacha|remolacha|Verduras|cocido|beets, cooked, boiled, drained
+Choclo|choclo,maiz|Verduras|crudo|corn, sweet, yellow, raw
+Choclo|choclo|Verduras|cocido|corn, sweet, yellow, cooked, boiled, drained, without salt
+Arvejas frescas|arvejas|Verduras|crudo|peas, green, raw
+Chauchas|chauchas,judias|Verduras|crudo|beans, snap, green, raw
+Repollo|repollo|Verduras|crudo|cabbage, raw
+Repollo morado|repollo colorado|Verduras|crudo|cabbage, red, raw
+Rúcula|rucula|Verduras|crudo|arugula, raw
+Apio|apio|Verduras|crudo|celery, raw
+Champiñones|hongos,champignon|Verduras|crudo|mushrooms, white, raw
+Puerro|puerro|Verduras|crudo|leeks, (bulb and lower leaf-portion), raw
+Ajo|ajo|Verduras|crudo|garlic, raw
+Espárragos|esparragos|Verduras|crudo|asparagus, raw
+Radicheta|achicoria|Verduras|crudo|chicory greens, raw
+Kale|col rizada|Verduras|crudo|kale, raw
+Mandioca|mandioca,yuca|Verduras|crudo|cassava, raw
+Nueces|nuez|Frutos secos|—|nuts, walnuts, english
+Almendras|almendra|Frutos secos|—|nuts, almonds
+Maní tostado|mani,cacahuate|Frutos secos|—|peanuts, all types, dry-roasted, without salt
+Mantequilla de maní|pasta de mani|Frutos secos|—|peanut butter, smooth style, without salt
+Castañas de cajú|caju,anacardo|Frutos secos|—|nuts, cashew nuts, raw
+Avellanas|avellana|Frutos secos|—|nuts, hazelnuts or filberts
+Pistachos|pistacho|Frutos secos|—|nuts, pistachio nuts, raw
+Nueces de Brasil|nuez de brasil|Frutos secos|—|nuts, brazilnuts, dried, unblanched
+Semillas de chía|chia|Semillas|—|seeds, chia seeds, dried
+Semillas de lino|lino,linaza|Semillas|—|seeds, flaxseed
+Semillas de girasol|girasol|Semillas|—|seeds, sunflower seed kernels, dried
+Semillas de zapallo|pepitas|Semillas|—|seeds, pumpkin and squash seed kernels, dried
+Semillas de sésamo|sesamo|Semillas|—|seeds, sesame seeds, whole, dried
+Aceite de oliva|oliva|Aceites y grasas|—|oil, olive, salad or cooking
+Aceite de girasol|girasol|Aceites y grasas|—|oil, sunflower, linoleic (less than 60%)
+Aceite de canola|canola|Aceites y grasas|—|oil, canola
+Aceite de coco|coco|Aceites y grasas|—|oil, coconut
+Manteca|manteca,butter|Aceites y grasas|—|butter, without salt
+Miel|miel|Otros|—|honey
+Dulce de leche|dulce de leche|Otros|—|dulce de leche
+Mermelada light|mermelada|Otros|—|jams and preserves, no sugar (with sodium saccharin), any flavor
+Cacao amargo en polvo|cacao|Otros|—|cocoa, dry powder, unsweetened
+Chocolate amargo 70-85%|chocolate|Otros|—|chocolate, dark, 70-85% cacao solids
+Azúcar|azucar|Otros|—|sugars, granulated
+Mostaza|mostaza|Otros|—|mustard, prepared, yellow
+Ketchup|ketchup|Otros|—|catsup
+Mayonesa light|mayonesa|Otros|—|salad dressing, mayonnaise, light
+Salsa de tomate|tomate triturado,pure de tomate|Otros|—|tomato products, canned, sauce
+Leche de almendras|leche vegetal|Otros|—|beverages, almond milk, unsweetened, shelf stable
+Café|cafe|Otros|—|beverages, coffee, brewed, prepared with tap water
+Té negro (infusión)|te,saquito|Otros|—|beverages, tea, black, brewed, prepared with tap water
+Pochoclo|pochoclos,popcorn|Otros|—|snacks, popcorn, air-popped

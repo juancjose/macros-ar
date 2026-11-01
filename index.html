@@ -1,0 +1,20 @@
+<!doctype html><html lang="es-AR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Macros AR — calculadora de macros</title>
+<meta name="description" content="Calculadora de macros personal con 200+ alimentos saludables de Argentina. Registro diario, historial, perfil y progreso. Funciona offline.">
+<meta name="theme-color" content="#0b0f14"><link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg"><link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css"></head><body>
+<header class="top"><div class="brand"><span class="logo">M</span><b>Macros</b><i>AR</i></div><div id="topdate"></div></header>
+<main id="view"></main>
+<nav class="tabs">
+<button data-tab="inicio" class="on"><svg viewBox="0 0 24 24"><path d="M10 4a6 6 0 1 0 0 12 6 6 0 0 0 0-12m10 16-5.5-5.5"/></svg>Buscar</button>
+<button data-tab="hoy"><svg viewBox="0 0 24 24"><path d="M4 12a8 8 0 1 0 16 0 8 8 0 0 0-16 0m8-4v4l3 2"/></svg>Mi día</button>
+<button data-tab="historial"><svg viewBox="0 0 24 24"><path d="M4 6h16v14H4zM4 10h16M9 3v4m6-4v4"/></svg>Historial</button>
+<button data-tab="perfil"><svg viewBox="0 0 24 24"><path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8m-7 8a7 7 0 0 1 14 0"/></svg>Perfil</button>
+<button data-tab="mas"><svg viewBox="0 0 24 24"><path d="M5 12h.01M12 12h.01M19 12h.01"/></svg>Más</button>
+</nav>
+<div id="sheet" class="sheet hidden"><div class="sheet-bg"></div><div class="sheet-card" id="sheetCard"></div></div>
+<div id="toast"></div>
+<script src="foods.js"></script><script src="app.js"></script>
+</body></html>
